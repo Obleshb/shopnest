@@ -39,8 +39,7 @@
    git clone https://github.com/yourusername/shopnest.git
    cd shopnest
 
-
+![Image](https://github.com/user-attachments/assets/3e17f604-8287-4630-9b37-2beaf7ae6f00)
 ![Image](https://github.com/user-attachments/assets/4be4d2f7-4545-4c3c-bc9f-a89f459fc58b)
 ![Image](https://github.com/user-attachments/assets/c3dc8661-7981-440e-bc29-c9f24a42ca4b)
 ![Image](https://github.com/user-attachments/assets/82eab034-503e-49f5-b229-89e57ba03338)
-![Image](https://github.com/user-attachments/assets/3e17f604-8287-4630-9b37-2beaf7ae6f00)
